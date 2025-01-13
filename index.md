@@ -3,5 +3,10 @@
 ``` javascript
 var myVar = "Batman and his villains sure are cool!";
 ```
-## List of the coolest comic books villains
+- [X] Name some heroes
+- [ ] Name some villains
+- [ ] Become that which I admire
+## List of the coolest comic books heroes
+Batman
+Green Arrow
 ## List of the coolest comic book villains
